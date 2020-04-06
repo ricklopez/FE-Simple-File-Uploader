@@ -1,0 +1,15 @@
+.drop-area {
+      border: 2px dashed gray;
+}
+
+.highlight {
+  border-color: #007bff;
+}
+#fileInput {
+  display: none;
+}
+
+.fa-cloud {
+  font-size: 3rem;
+  color: #007bff;
+}
